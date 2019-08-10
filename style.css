@@ -1,0 +1,171 @@
+.header
+{
+	height: 270px;
+	background-color:#006699;
+	text-align:center;
+
+}
+
+.n
+{
+	
+	background:#FFFFFF;
+	font-weight:bold;
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	border:none;
+}
+
+.
+
+ul li:hover
+{
+
+	
+		color:#000000;
+}
+
+.main
+{
+	height: 500px;
+	color: #666666;
+	font-size:medium;
+	font-family:"Times New Roman", Times, serif;
+	line-height:28px;
+}
+
+.heading
+{
+	color:#996600;
+	font-size:x-large;
+	font-family:"Times New Roman", Times, serif;
+	white-space:20px;
+	text-align:center;
+	margin-bottom:35px;
+	margin-top:65px;
+	text-decoration:underline;
+	
+}
+
+.mainheading
+{
+	color:#996600;
+	text-align:center;
+	font-family:"Times New Roman", Times, serif;
+	font-size:xx-large;
+	margin-top:100px;
+	text-decoration:underline;
+}
+
+.contact
+{
+	text-align:center;
+	color:#996600;
+	font-family:"Times New Roman", Times, serif;
+	font-weight:600;
+	font-style:oblique;
+	font-size:18px;
+}
+
+.textbox
+{
+	width: 100%;
+	background-color:#333333;
+	height:45px;
+	color:#CCCCCC;
+	padding:15px 25px;
+	text-align:center;
+	
+}
+
+.name 
+{
+	height:110px;
+}
+
+.comment{
+	background:#333333;
+	color:#CCCCCC;
+	padding:15px 25px;
+	text-align:center;
+	width:100%;
+	height:200px;
+}
+
+.na{
+	margin:2em auto;
+}
+
+.buttons
+{
+	text-align:center;
+	color:#FFFFFF;;
+	background-color:#996600;
+	font-family:"Times New Roman", Times, serif;
+	font-weight:600;
+	font-style:oblique;
+	font-size:18px;
+	border-radius : 30px;
+	width:35%;
+}
+
+.footer
+{
+	width : 100%;
+
+	margin-top:250px;
+	background-image:url(images/footer-back.png);
+	background-repeat:inherit;
+}
+
+.title
+{
+	text-align:center;
+	font-family:"Times New Roman", Times, serif;
+	color: #666666;
+	margin-bottom:55px;
+}
+.textBox
+{
+	background:#333333;
+	color:#FFFFFF;
+	text-align:center;
+	font-style:italic;
+	margin-bottom:30px;
+}
+
+.inputLabel
+{
+	text-align:center;
+	font-family:"Times New Roman", Times, serif;
+	color:#996600;
+	font-style:italic;
+	font-size:18px;
+	padding-left:44%;
+	margin-bottom:10px;
+
+}
+
+.carouselImg
+{
+	width:1538px;
+	height:776px;
+}
+
+.footerIcon
+{
+	color:#996600;
+}
+
+.footerText
+{
+	font-style:oblique; 
+	color:#996600; 
+	font-weight:bold;
+	text-decoration:none;
+}
+
+.footerP
+{
+	margin-top:40px; 
+	margin-bottom:20px;
+}
